@@ -1,0 +1,14 @@
+12:09 AM 1/1/2004
+
+exec(open("D:\\1618137\\client.py").read())
+
+exec(open("D:\\1618137\\.py").read())
+
+ipv4 address:10.1.24.59
+
+mac(physical address):34:64:A9:0F:6D:A5
+
+https://www.govtrack.us/congress/votes/115-2017/h200/diagram
+
+
+C:\Users\Admin\AppData\Local\Programs\Python\Python35-32\
